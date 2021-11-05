@@ -2,7 +2,7 @@
 layout: archive
 title: "People"
 permalink: /people/
-last_updated: November 04, 2021
+last_updated: November 05, 2021
 author_profile: true
 ---
 
@@ -18,9 +18,9 @@ Now, she is working at the University of Puerto Rico where she has been research
 ## Lab members
 ### Yakshi Ortiz-Maldonado, Research Assistant
 <img src='/images/yakshi.jpeg' width="300" align="right">
-Contact: `yakshi.ortiz@upr.edu`
+<p>Contact: yakshi.ortiz@upr.edu </p>
 
-[Yakshi](https://yakshiupr.github.io "Yakshi's personal page") did her BS and her MSc. at the University of Puerto Rico - Rio Piedras. Her thesis focused understanding the role of microorganisms associated to roots, rhizobiomes, in the weathering of silicate rocks at the tropics. The weathering of these rocks, especially when they have high concentrations of Calcium and Magnesium is known to affect the short- and the long Carbon cycles.
+[Yakshi](https://yakshiupr.github.io "Yakshi's personal page") did her BS and her MSc. at the University of Puerto Rico - Rio Piedras. Her thesis focused understanding the role of microorganisms associated to roots, rhizobiomes, in the weathering of silicate rocks at the tropics. The weathering of these rocks, especially when they have high concentrations of Calcium and Magnesium is known to affect the short- and the long Carbon cycles. Now, she continues working at TLSE-lab analyzing rock samples incubated 4 years to continue characterizing microbial communities involved in rock weathering. 
 
 ### Laura Ospina, Graduate Student
 <p> Contact: lauosgom@gmail.com </p>
@@ -30,21 +30,19 @@ Contact: `yakshi.ortiz@upr.edu`
 
 
 ### Francisco Diaz-Collado, Undergrad Student
-<img src='/images/tarugos.png' width="350" align="right">
+<img src='/images/tarugos.png' width="300" align="right">
 <p> Contact: francisco.diaz17@upr.edu </p>
-I am currently coursing my fourth year as a biology undergraduate student at the University of Puerto Rico-Rio Piedras. I am excited to be researching for my third consecutive year at the TLSE Lab. I started as a volunteer towards the end of my freshman year and then continued through the Introduction to Research course. In the lab, I work with tree cores to characterize tree growth patterns and infer climate conditions.
+Francisco is currently in his 4th year on Biology at the University of Puerto Rico. He has been working for the last three years at the TLSE-lab. He started as a volunteer, became fascinated and continued here with us. In the lab, his research is focused on characterizing tree growth patterns through dendrochronology using tree cores to ultimately  infer climate conditions that led to those growing patterns.
 
 
 ### Rachel Cruz-Pérez, Undegrad Student
-<img src='/images/sequoia-rachel.jpeg' width="350" align="right">
+<img src='/images/sequoia-rachel.jpeg' width="300" align="right">
 <p> Contact: rachel.cruz@upr.edu </p>
-Environmental Sciences and Biology
-My work in the lab focuses on plant functional traits, namely root tensile strength and its abiotic and biotic influences. As part of my undergraduate thesis, I am compiling the first global root tensile strength database which will help strengthen our knowledge of belowground interactions and ecosystem processes.
+Rachel is currently in her last year on a dual B.S. in Environmental Sciences and Biology at the University of Puerto Rico. She has been working at TLSE-lab for the last one and a half year. Her research is focused on how biotic and abiotic factors influence plant functional traits, namely root tensile strength. Towards this end, she is compiling the first global root tensile strength database, which will help strengthen our knowledge of belowground interactions and its effects on ecosystem processes.
 
 
 ### Alanis Rosa Santiago, Undergrad Student
 <img src='/images/landslide.jpg' width="300" align="right">
 <p> Contact: alanis.rosa1@upr.edu </p>
-Biology
-I am an undergraduate Biology student at the University of Puerto Rico Rio Piedras. This is my 2nd year as a member of the TLSE lab where I work on characterizing the functional diversity of plant communities developing on landslides. This lies within my research interests as I am interested in studying how plant communities are influenced by their environment and disturbances.
+Alanis is currently at her XX year on Biology at the University of Puerto Rico. She has been working for the last one and a half year at TLSE-lab. Her research is focused on characterizing the functional diversity of plant communities developing on landslides. Her research interests include studying the influence of the environmet and disturbances on plant communities.
 
