@@ -10,7 +10,7 @@ author_profile: true
 
 <img src='/images/CRestre.jpg' width="300" align="right">
 ### Carla Restrepo, Principal Investigator
-<p> Contact: cresre@hpcf.upr.edu </p>
+<p> Contact: crestre@hpcf.upr.edu </p>
 
 Carla did her M.Sc. and Ph.D. (1995) in Zoology at the University of Florida. She did her postdoctoral research at the University of New Mexico. 
 Now, she is working at the University of Puerto Rico where she has been researching various topics, all related to landscape ecology.  
