@@ -24,10 +24,12 @@ Now, she is working at the University of Puerto Rico where she has been research
 
 ### Laura Ospina, Graduate Student
 <p> Contact: lauosgom@gmail.com </p>
+Laura completed her B.S. at the XXXX. 
   
 ### Ana Kilgore, Post-Bac
+<img src='/images/ana-kilgore.jpg' width="300" align="right">
 <p> Contact: ana.kilgore@upr.edu </p>
-
+Ana recently completed her bachelor’s degree in Organismal Biology and Ecology at Colorado College. She now started at the TLSE-lab where she is studying whether ecosystems possess an ecological memory that allows them to "remember" where landslides occured. The aims of her research are to analyze landslide spatial patterns in the Sierras de las Minas of Guatemala over a timeframe of more than 50 years. By creating an inventory using ERDAS Imagine and ArcGIS to extract landslide scars from satellite imagery, she’s working to identify topographic and bioclimatic factors relating to individual landslide occurrence as well as examine the dynamics of landslide recovery and immunity. 
 
 ### Francisco Diaz-Collado, Undergrad Student
 <img src='/images/tarugos.png' width="300" align="right">
