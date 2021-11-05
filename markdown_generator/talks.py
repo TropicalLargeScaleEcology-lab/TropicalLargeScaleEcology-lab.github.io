@@ -73,10 +73,10 @@ for row, item in talks.iterrows():
     md = "---\ntitle: \""   + item.title + '"\n'
     md += "collection: talks" + "\n"
     
-    if len(str(item.type)) > 3:
-        md += 'type: "' + item.type + '"\n'
+    if len(str(item.author)) > 3:
+        md += 'author: "' + item.author + '"\n'
     else:
-        md += 'type: "Talk"\n'
+        md += 'author: "Talk"\n'
     
     md += "permalink: /talks/" + html_filename + "\n"
     
