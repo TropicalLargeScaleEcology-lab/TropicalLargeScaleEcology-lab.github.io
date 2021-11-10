@@ -8,14 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-<img src='/images/CRestre.jpg' width="300" align="right" style="border:3px solid black">
-### Carla Restrepo, Principal Investigator
-<p> Contact: crestre@hpcf.upr.edu </p>
-
-Carla did her M.Sc. and Ph.D. (1995) in Zoology at the University of Florida. She did her postdoctoral research at the University of New Mexico. 
-Now, she is working at the University of Puerto Rico where she has been researching various topics, all related to landscape ecology.  
-
-## Lab members
+## Current lab members
 ### Yakshi Ortiz-Maldonado, Research Assistant
 <img src='/images/yakshi.jpeg' width="300" align="right" style="border:3px solid black">
 <p>Contact: yakshi.ortiz@upr.edu </p>
@@ -48,3 +41,78 @@ Rachel is currently in her last year on a dual B.S. in Environmental Sciences an
 <p> Contact: alanis.rosa1@upr.edu </p>
 Alanis is currently at her 4th year on Biology at the University of Puerto Rico. She has been working for the last one and a half year at TLSE-lab. Her research is focused on characterizing the functional diversity of plant communities developing on landslides. Her research interests include studying the influence of the environmet and disturbances on plant communities.
 
+
+## Past lab members
+
+### Postdocs
+#### Lindsey Sutton
+<img src='/images/lindseysutton.png' width="200" align="right" style="border:3px solid black">
+<p> Contact: lsutton05@gmail.com </p>
+<p> Ph.D., Arizona State University </p>
+Postdoc: Natural hazards, landslides, and livelihoods in the Sierra de Las Minas of eastern Guatemala
+
+#### Carlos Ramos-Sharron
+<img src='/images/carlosramoscharron.png' width="200" align="right" style="border:3px solid black">
+<p> Contact: cramos_scharron@yahoo.com </p>
+<p> Ph.D., Colorado State University </p>
+Postdoc: The transfer of modern organic carbon by landslide activity in a tropical montane ecosystem in Guatemala.
+
+Current position: Assistant Professor, Department of Geography, Univesity of Texas at Austin.
+
+### Graduate Students
+
+#### Diana Delgado-Rivera
+<img src='/images/dianadelgado.png' width="200" align="right" style="border:3px solid black">
+
+<p> Contact: diana.delgadorivera@upr.edu </p>
+<p> Ph.D., Department of Biology, University of Puerto Rico at Rio Piedras </p>
+Thesis: Disentangling vine-invaded landscapes: From individual vine patches to vine networks
+
+Current position: Instructor, Department of Biology, University of Puerto Rico at Bayamon.
+ 
+#### Zuania Colon-Piñeiro
+<img src='/images/zuaniacolon.png' width="200" align="right" style="border:3px solid black">
+<p> Contact: zcolonp@gmail.com </p>
+<p> M.Sc., Department of Biology, University of Puerto Rico at Rio Piedras </p>
+Thesis: The effect of temperature on the development of Eleutherodactylus coqui: integrating the mechanisms that influence the phenotype
+
+Current position: PhD Student at University of Florida, Gainesville
+
+#### Johanna Delgado-Acevedo
+<img src='/images/johannadelgado.png' width="200" align="right" style="border:3px solid black">
+<p> Contact: johannadelgado@yahoo.com </p>
+<p> M.Sc., Department of Biology, University of Puerto Rico at Rio Piedras </p>
+Thesis: Effects of land-use change on the morphology of Puerto Rican Frogs.
+
+Current position: Assistant Professor, Texas at A&M Commerce.
+
+#### Andres Cuervo
+<img src='/images/andrescuervo' width="200" align="right" style="border:3px solid black">
+<p> Contact: amcuervo@gmail.com </p>
+<p> M.Sc., Department of Biology, University of Puerto Rico at Rio Piedras </p>
+Thesis: Phenotypic effects of forest fragmention on tropical montane birds: Variation in developmental stability, morphology, and feather growth rates.
+
+Current position: Post-doc Universidad de Los Andes, Colombia.
+
+### Undergraduate Students
+
+#### Nydia Santiago
+#### Edwin Navarro
+#### Ariel Barbosa
+#### Emily Diaz
+#### Diana Pabon 
+#### Carlos Cifuentes
+#### Katia Ruiz
+#### Antonio Gutierrez 
+#### Josimar Figueroa
+#### Johanna Colon
+#### Erick Estela
+#### Francheska Lopez
+#### Jenitza Melendez
+
+
+
+
+### Other Collaborators
+
+#### Giomara LaQuay
