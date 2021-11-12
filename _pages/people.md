@@ -39,7 +39,7 @@ Rachel is currently in her last year on a dual BSc. in Environmental Sciences an
 ### Alanis Rosa Santiago, Undergrad Student
 <img src='/images/alanis.jpg' width="300" align="right" style="border:3px solid black">
 <p> Contact: alanis.rosa1@upr.edu </p>
-Alanis is currently at her 4th year in Biology at the University of Puerto Rico. She has been working for the last one and a half year at TLSE-lab. Her research is focused on characterizing the functional diversity of plant communities developing on landslides. Her research interests include studying the influence of the environmet and disturbances on plant communities.
+Alanis is currently at her 4th year in Biology at the University of Puerto Rico. She has been working for the last one and a half year at TLSE-lab. Her research is focused on characterizing the functional diversity of plant communities developing on landslides. For her graduate studies she would like to continue studying the influence of the environment and disturbances on plant communities.
 
 
 ## Past lab members
