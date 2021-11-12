@@ -68,7 +68,7 @@ Current position: Assistant Professor, Department of Geography, Univesity of Tex
 <p> Ph.D., Department of Biology, University of Puerto Rico at Rio Piedras </p>
 Thesis: Disentangling vine-invaded landscapes: From individual vine patches to vine networks
 
-Current position: Instructor, Department of Biology, University of Puerto Rico at Bayamon.
+Current position: Lecturer, Department of Biology, University of Puerto Rico at Bayamón.
  
 #### Zuania Colon-Piñeiro
 <img src='/images/zuaniacolon.png' width="200" align="right" style="border:3px solid black">
@@ -84,7 +84,7 @@ Current position: PhD Student at University of Florida, Gainesville
 <p> M.Sc., Department of Biology, University of Puerto Rico at Rio Piedras </p>
 Thesis: Effects of land-use change on the morphology of Puerto Rican Frogs.
 
-Current position: Assistant Professor, Texas at A&M Commerce.
+Current position: Associate Professor, Texas at A&M Commerce.
 
 #### Andres Cuervo
 <img src='/images/andrescuervo.png' width="200" align="right" style="border:3px solid black">
@@ -92,7 +92,7 @@ Current position: Assistant Professor, Texas at A&M Commerce.
 <p> M.Sc., Department of Biology, University of Puerto Rico at Rio Piedras </p>
 Thesis: Phenotypic effects of forest fragmention on tropical montane birds: Variation in developmental stability, morphology, and feather growth rates.
 
-Current position: Post-doc Universidad de Los Andes, Colombia.
+Current position: Assistant Professor and Curator of Birds, Universidad Nacional de Colombia.
 
 ### Undergraduate Students
 
