@@ -17,7 +17,7 @@ author_profile: true
 
 ### Laura Ospina, Graduate Student
 <p> Contact: lauosgom@gmail.com </p>
-Laura completed her BSc. at the XXXX. 
+Laura completed her BSc. in Biology at Universidad EAFIT at Medellín, Colombia. She is currently in the last year to finish a MSc. in Biology. 
   
 ### Ana Kilgore, Post-Bac
 <img src='/images/ana-kilgore.jpg' width="200" align="right" style="border:3px solid black">
