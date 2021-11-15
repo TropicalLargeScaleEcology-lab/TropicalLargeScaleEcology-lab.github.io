@@ -34,7 +34,7 @@ Contact: `francisco.diaz17@upr.edu`{:.ruby}
 Francisco is currently in his 4th year in Biology at the University of Puerto Rico. He has been working for the last three years at the TLSE-lab. He started as a volunteer, became fascinated and continued here with us. In the lab, his research is focused on characterizing tree growth patterns through dendrochronology using tree cores to ultimately  infer climate conditions that led to those growing patterns. In the future, he is thinking in pursuing graduate studies in Public Health.  
 
 ### Rachel Cruz-Pérez, Undegrad Student
-<img src='/images/sequoia-rachel.jpeg' width="200" align="right" style="border:3px solid black" float = "right">
+<img src='/images/sequoia-rachel.jpeg' width="200" align="right" style="float:right;border:3px solid black" float = "right">
 Contact: `rachel.cruz@upr.edu`{:.ruby}
 
 Rachel is currently in her last year on a dual BSc. in Environmental Sciences and Biology at the University of Puerto Rico. She has been working at TLSE-lab for the last one and a half year. Her research is focused on how biotic and abiotic factors influence plant functional traits, namely root tensile strength. Towards this end, she is compiling the first global root tensile strength database, which will help strengthen our knowledge of belowground interactions and its effects on ecosystem processes.
