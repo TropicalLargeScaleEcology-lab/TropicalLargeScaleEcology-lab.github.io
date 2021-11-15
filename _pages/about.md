@@ -29,4 +29,4 @@ Students applying to our Graduate Program receive support through Teaching Assis
 
 
 ### For more information
-For more info about the lab you can directly contact Dr. Restrepo at crestre@hpcf.upr.edu.  
+For more info about the lab you can directly contact Dr. Restrepo at `crestre@hpcf.upr.edu`.  
