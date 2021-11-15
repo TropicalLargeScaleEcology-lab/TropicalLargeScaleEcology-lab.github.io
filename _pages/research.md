@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Reseach"
+title: ""
 permalink: /research/
 last_updated: November 15, 2021
 author_profile: true
@@ -17,138 +17,37 @@ Landsliding is likely to play a pivotal role in mountainscapes, our knowledge ab
 *This is a collaborative project with Edwin Castellanos (Universidad del Valle de Guatemala), Markus Stoffel, and Juan Ballesteros (University of Geneva) and Jane Willenbring (Scripps Institution of Oceanograph). Funded through the National Science Foundation, DEB.*
 
 <img src='/images/yakshi.jpeg' width="300" align="left" style="border:3px solid black">
-Contact: `yakshi.ortiz@upr.edu`{:.ruby}
 
-[Yakshi](https://yakshiupr.github.io "Yakshi's personal page") did her BSc. and her MSc. in Biology at the University of Puerto Rico - Rio Piedras. Her thesis focused understanding the role of microorganisms associated to roots, rhizobiomes, in the weathering of silicate rocks at the tropics. The weathering of these rocks, especially when they have high concentrations of Calcium and Magnesium is known to affect the short- and the long Carbon cycles. Now, she is working at TLSE-lab analyzing rock samples that were incubated for 4 years in order to continue characterizing microbial communities involved in rock weathering. 
+## Landsliding and the rhizobiota link the short- and long-term carbon cycles: A metagenomic approach
 
-### Laura Ospina, Graduate Student
+The main goal of this proof-of-concept study is to characterize the rhizobiomas of plants developing in contrasting weathering enviroments, namely landslides and forest underlain by (Ca, Mg)-bearing silicate rocks.
+
+*This is a collaborative project with Dr. Filipa Godoy at the Inter American University of Puerto Rico Metropolitan campus. Funded through NIH-INBRE 2015-2016 cycle.*
 
 <img src='/images/lauraospina.jpg' width="300" align="right" style="border:3px solid black">
-Contact: `lauosgom@gmail.com`{:.ruby}
 
-Laura completed her BSc. in Biology at Universidad EAFIT at Medellín, Colombia. She is currently in her last year to complete a MSc. in Biology at the University of Puerto Rico - Rio Piedras. Her research is aimed at understanding the role of plant functional diversity on landslide occurrence at tropical mountains. Towards this end, she relies on Machine Learning algorithms to delimit landslides areas in historical aerial images from Sierra de Las Minas, Guatemala. In addition, she is doing a global meta-analysis to compare the plant taxonomic and functional diversity in landslide and forest areas. Finally, she is relying on remote sensing data (Landsat and Lidar) to generate continuous maps of functional diversity at Sierra de Las Minas. Her future goals include working in a company that offers GIS-based solutions. 
+## Vine expansion in post-agricultural landscapes
 
-### Ana Kilgore, Post-Bac
+Climbing plants are increasing in abundance and through their effect on community structure and ecosystem-level processes may be becoming important drivers of change. Nearly all studies on climbing plants have focused on woody climbings plants or lianas completly overlooking their non-woody counterparts - herbaceous and shrubby climbing plants or vines - which are reaching epidemic proportions in numerous regenerating post-agricultural landscapes worldwide.
 
-<img src='/images/ana-kilgore.jpg' width="200" align="left" style="border:3px solid black">
-Contact: `ana.kilgore@upr.edu`{:.ruby}
-
-Ana recently completed her BSc. in Organismal Biology and Ecology at Colorado College. Now, she is studying whether ecosystems possess an ecological memory that allows them to "remember" where landslides occured. The aims of her research are to analyze landslide spatial patterns in the Sierras de las Minas of Guatemala over a timeframe of more than 50 years. By creating an inventory using ERDAS Imagine and ArcGIS to extract landslide scars from satellite imagery, she’s working to identify topographic and bioclimatic factors relating to individual landslide occurrence as well as examine the dynamics of landslide recovery and immunity. 
-
-<br/><br/>
+We are investigating the large-scale dynamics of vines across a complex environmental gradient in the island of Puerto Rico. Using remotely sensed data and ground thruthing we are mapping vine patches and characterizing species composition and abudance. The combination of two sets of high-resolution imagery collected 9 years apart will allow us to build vine patch networks and begin to understand its large-scale dynamics.
 
 
-### Francisco Diaz-Collado, Undergrad Student
+### Landscapes, Water, and the Sustainable Management of Tropical Watersheds
+
+Water is not only one of our basic needs, but also a resource that is critical for the sustainable development of our society. This research is aimed at developing a framework that incorporates ideas of sustainability and resilience for watershed management. Specifically we want to understand how interactions between spatially explicit natural and social networks may contribute to the resilience, and ultimately the sustainability of tropical watersheds.
+
+We are using the Rio Grande de Arecibo watershed of Puert Rico watershed as a model system for the island, and more broadly speaking for other tropical regions. This watershed became a key player for the provision of potable water in the island when a complex system of pipes was built to transfer water across the island to serve the Metropolitan area of San Juan.
+
+*This was an interdisciplinary collaboration with faculty at UPR-RP and was initially funded through an institutional award.*
 
 <img src='/images/franciscodiazcollado.jpeg' width="300" align="right" style="border:3px solid black">
-Contact: `francisco.diaz17@upr.edu`{:.ruby}
-
-Francisco is currently in his 4th year in Biology at the University of Puerto Rico. He has been working for the last three years at the TLSE-lab. He started as a volunteer, became fascinated and continued here with us. In the lab, his research is focused on characterizing tree growth patterns through dendrochronology using tree cores to ultimately  infer climate conditions that led to those growing patterns. In the future, he is thinking in pursuing graduate studies in Public Health.  
-
-<br/><br/>
-<br/><br/>
-
-### Rachel Cruz-Pérez, Undegrad Student
-
-<img src='/images/sequoia-rachel.jpeg' width="200" align="left" style="float:right;border:3px solid black">
-Contact: `rachel.cruz@upr.edu`{:.ruby}
-
-Rachel is currently in her last year on a dual BSc. in Environmental Sciences and Biology at the University of Puerto Rico. She has been working at TLSE-lab for the last one and a half year. Her research is focused on how biotic and abiotic factors influence plant functional traits, namely root tensile strength. Towards this end, she is compiling the first global root tensile strength database, which will help strengthen our knowledge of belowground interactions and its effects on ecosystem processes.
 
 
-### Alanis Rosa Santiago, Undergrad Student
+### Phenotypic consequences of habitat loss on tropical organisms
 
-<img src='/images/alanis.jpg' width="300" align="right" style="border:3px solid black">
-Contact: `alanis.rosa1@upr.edu`{:.ruby}
+We are interested in the mechanisms underlying phenotypic change in fragmented habitats, including the extent to which organisms are reslient to change. We focus on body size, a universal currency not only reflecting a fascinating dimension of diversity but also one related to a variety of physiological, morphological, behavioral, life-history, and ecological attributes of organisms.
 
-Alanis is currently at her 4th year in Biology at the University of Puerto Rico. She has been working for the last one and a half year at TLSE-lab. Her research is focused on characterizing the functional diversity of plant communities developing on landslides. For her graduate studies she would like to continue studying the influence of the environment and disturbances on plant communities.
+We have been interested in: 1) characterizing the multimodal distribution of body sizes, 2) understanding the functional role of organisms sharing similar sizes, and 3) examining linkages between developmental processes operating at the level of individuals with ecological process operating at the level of communities to understand the emergence of multimodal distributions in body size. In particular, we have explored the degree to which habitat loss may have altered developmental stability, and whether certain body sizes are more likely to exhibit higher levels of fluctuating asymmetry or morphological variation that may make them less likely to persist in altered environments.
 
-
-# Past lab members
-
-## Postdocs
-
-### Lindsey Sutton
-
-<img src='/images/lindseysutton.png' width="200" align="right" style="border:3px solid black">
-Contact: `lsutton05@gmail.com`{:.ruby}
-
-<p> Ph.D., Arizona State University </p>
-Postdoc: Natural hazards, landslides, and livelihoods in the Sierra de Las Minas of eastern Guatemala
-
-### Carlos Ramos-Sharron
-
-<img src='/images/carlosramoscharron.png' width="200" align="right" style="border:3px solid black">
-Contact: `cramos_scharron@yahoo.com`{:.ruby}
-
-<p> Ph.D., Colorado State University </p>
-Postdoc: The transfer of modern organic carbon by landslide activity in a tropical montane ecosystem in Guatemala.
-
-Current position: Assistant Professor, Department of Geography, Univesity of Texas at Austin.
-
-## Graduate Students
-
-### Diana Delgado-Rivera
-
-<img src='/images/dianadelgado.png' width="200" align="right" style="border:3px solid black">
-Contact: `diana.delgadorivera@upr.edu`{:.ruby}
-
-<p> Ph.D., Department of Biology, University of Puerto Rico at Rio Piedras </p>
-Thesis: Disentangling vine-invaded landscapes: From individual vine patches to vine networks
-
-Current position: Lecturer, Department of Biology, University of Puerto Rico at Bayamón.
- 
-### Zuania Colon-Piñeiro
-
-<img src='/images/zuaniacolon.png' width="200" align="right" style="border:3px solid black">
-Contact: `zcolonp@gmail.com`{:.ruby}
-
-<p> M.Sc., Department of Biology, University of Puerto Rico at Rio Piedras </p>
-Thesis: The effect of temperature on the development of Eleutherodactylus coqui: integrating the mechanisms that influence the phenotype
-
-Current position: PhD Student at University of Florida, Gainesville
-
-### Johanna Delgado-Acevedo
-
-<img src='/images/johannadelgado.png' width="200" align="right" style="border:3px solid black">
-Contact: `johannadelgado@yahoo.com`{:.ruby}
-
-<p> M.Sc., Department of Biology, University of Puerto Rico at Rio Piedras </p>
-Thesis: Effects of land-use change on the morphology of Puerto Rican Frogs.
-
-Current position: Associate Professor, Texas at A&M Commerce.
-
-### Andres Cuervo
-
-<img src='/images/andrescuervo.png' width="200" align="right" style="border:3px solid black">
-Contact: `amcuervo@gmail.com`{:.ruby}
-
-<p> M.Sc., Department of Biology, University of Puerto Rico at Rio Piedras </p>
-Thesis: Phenotypic effects of forest fragmention on tropical montane birds: Variation in developmental stability, morphology, and feather growth rates.
-
-Current position: Assistant Professor and Curator of Birds, Universidad Nacional de Colombia.
-
-## Undergraduate Students
-
-### Nydia Santiago
-
-### Edwin Navarro
-### Ariel Barbosa
-### Emily Diaz
-### Diana Pabon 
-### Carlos Cifuentes
-### Katia Ruiz
-### Antonio Gutierrez 
-### Josimar Figueroa
-### Johanna Colon
-### Erick Estela
-### Francheska Lopez
-### Jenitza Melendez
-
-
-
-
-## Other Collaborators
-
-### Giomara LaQuay
-
+These questions have been addressed at a variety of scales and using different approaches including field and laboratory work, the compilation of large databases, photographing or x-raying preserved specimens, and using GIS. We have focused on birds, amphibians, and butterflies to accommodate students' interests. 
