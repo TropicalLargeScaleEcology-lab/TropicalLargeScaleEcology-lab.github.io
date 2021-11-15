@@ -31,7 +31,7 @@ Ana recently completed her BSc. in Organismal Biology and Ecology at Colorado Co
 <img src='/images/franciscodiazcollado.jpeg' width="300" align="right" style="border:3px solid black">
 Contact: `francisco.diaz17@upr.edu`{:.ruby}
 
-Francisco is currently in his 4th year in Biology at the University of Puerto Rico. He has been working for the last three years at the TLSE-lab. He started as a volunteer, became fascinated and continued here with us. In the lab, his research is focused on characterizing tree growth patterns through dendrochronology using tree cores to ultimately  infer climate conditions that led to those growing patterns.
+Francisco is currently in his 4th year in Biology at the University of Puerto Rico. He has been working for the last three years at the TLSE-lab. He started as a volunteer, became fascinated and continued here with us. In the lab, his research is focused on characterizing tree growth patterns through dendrochronology using tree cores to ultimately  infer climate conditions that led to those growing patterns. In the future, he is thinking in pursuing graduate studies in Public Health.  
 
 ### Rachel Cruz-Pérez, Undegrad Student
 <img src='/images/sequoia-rachel.jpeg' width="200" align="right" style="border:3px solid black" float = "none">
