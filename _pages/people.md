@@ -28,13 +28,13 @@ Contact: `ana.kilgore@upr.edu`{:.ruby}
 Ana recently completed her BSc. in Organismal Biology and Ecology at Colorado College. Now, she is studying whether ecosystems possess an ecological memory that allows them to "remember" where landslides occured. The aims of her research are to analyze landslide spatial patterns in the Sierras de las Minas of Guatemala over a timeframe of more than 50 years. By creating an inventory using ERDAS Imagine and ArcGIS to extract landslide scars from satellite imagery, she’s working to identify topographic and bioclimatic factors relating to individual landslide occurrence as well as examine the dynamics of landslide recovery and immunity. 
 
 ### Francisco Diaz-Collado, Undergrad Student
-<img src='/images/franciscodiazcollado.jpeg' width="300" align="right" style="none:border:3px solid black">
+<img src='/images/franciscodiazcollado.jpeg' width="300" align="right" style="border:3px solid black">
 Contact: `francisco.diaz17@upr.edu`{:.ruby}
 
 Francisco is currently in his 4th year in Biology at the University of Puerto Rico. He has been working for the last three years at the TLSE-lab. He started as a volunteer, became fascinated and continued here with us. In the lab, his research is focused on characterizing tree growth patterns through dendrochronology using tree cores to ultimately  infer climate conditions that led to those growing patterns.
 
 ### Rachel Cruz-Pérez, Undegrad Student
-<img src='/images/sequoia-rachel.jpeg' width="200" align="right" style="none:border:3px solid black">
+<img src='/images/sequoia-rachel.jpeg' width="200" align="right" style="border:3px solid black", float = "none">
 Contact: `rachel.cruz@upr.edu`{:.ruby}
 
 Rachel is currently in her last year on a dual BSc. in Environmental Sciences and Biology at the University of Puerto Rico. She has been working at TLSE-lab for the last one and a half year. Her research is focused on how biotic and abiotic factors influence plant functional traits, namely root tensile strength. Towards this end, she is compiling the first global root tensile strength database, which will help strengthen our knowledge of belowground interactions and its effects on ecosystem processes.
