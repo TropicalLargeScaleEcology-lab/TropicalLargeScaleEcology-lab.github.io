@@ -16,16 +16,17 @@ author_profile: true
 [Yakshi](https://yakshiupr.github.io "Yakshi's personal page") did her BSc. and her MSc. in Biology at the University of Puerto Rico - Rio Piedras. Her thesis focused understanding the role of microorganisms associated to roots, rhizobiomes, in the weathering of silicate rocks at the tropics. The weathering of these rocks, especially when they have high concentrations of Calcium and Magnesium is known to affect the short- and the long Carbon cycles. Now, she is working at TLSE-lab analyzing rock samples that were incubated for 4 years in order to continue characterizing microbial communities involved in rock weathering. 
 
 ### Laura Ospina, Graduate Student
+<img src='/images/lauraospina.jpg' width="300" align="right" style="border:3px solid black">
 <p> Contact: lauosgom@gmail.com </p>
-Laura completed her BSc. in Biology at Universidad EAFIT at Medellín, Colombia. She is currently in the last year to finish a MSc. in Biology. 
-  
+Laura completed her BSc. in Biology at Universidad EAFIT at Medellín, Colombia. She is currently in her last year to complete a MSc. in Biology at the University of Puerto Rico - Rio Piedras. Her research is aimed at understanding the role of plant functional diversity on landslide occurrence at tropical mountains. Towards this end, she relies on Machine Learning algorithms to delimit landslides areas in historical aerial images from Sierra de Las Minas, Guatemala. In addition, she is doing a global meta-analysis to compare the plant taxonomic and functional diversity in landslide and forest areas. Finally, she is relying on remote sensing data (Landsat and Lidar) to generate continuous maps of functional diversity at Sierra de Las Minas. Her future goals include working in a company that offers GIS-based solutions. 
+
 ### Ana Kilgore, Post-Bac
 <img src='/images/ana-kilgore.jpg' width="200" align="right" style="border:3px solid black">
 <p> Contact: ana.kilgore@upr.edu </p>
 Ana recently completed her BSc. in Organismal Biology and Ecology at Colorado College. Now, she is studying whether ecosystems possess an ecological memory that allows them to "remember" where landslides occured. The aims of her research are to analyze landslide spatial patterns in the Sierras de las Minas of Guatemala over a timeframe of more than 50 years. By creating an inventory using ERDAS Imagine and ArcGIS to extract landslide scars from satellite imagery, she’s working to identify topographic and bioclimatic factors relating to individual landslide occurrence as well as examine the dynamics of landslide recovery and immunity. 
 
 ### Francisco Diaz-Collado, Undergrad Student
-<img src='/images/tarugos.png' width="300" align="right" style="border:3px solid black">
+<img src='/images/franciscodiazcollado.png' width="300" align="right" style="border:3px solid black">
 <p> Contact: francisco.diaz17@upr.edu </p>
 Francisco is currently in his 4th year in Biology at the University of Puerto Rico. He has been working for the last three years at the TLSE-lab. He started as a volunteer, became fascinated and continued here with us. In the lab, his research is focused on characterizing tree growth patterns through dendrochronology using tree cores to ultimately  infer climate conditions that led to those growing patterns.
 
