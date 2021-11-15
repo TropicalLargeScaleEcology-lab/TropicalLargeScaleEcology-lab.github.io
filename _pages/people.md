@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Current lab members
+# Current lab members
 ### Yakshi Ortiz-Maldonado, Research Assistant
 <img src='/images/yakshi.jpeg' width="300" align="right" style="border:3px solid black">
 Contact: `yakshi.ortiz@upr.edu`{:.ruby}
@@ -28,7 +28,7 @@ Contact: `ana.kilgore@upr.edu`{:.ruby}
 Ana recently completed her BSc. in Organismal Biology and Ecology at Colorado College. Now, she is studying whether ecosystems possess an ecological memory that allows them to "remember" where landslides occured. The aims of her research are to analyze landslide spatial patterns in the Sierras de las Minas of Guatemala over a timeframe of more than 50 years. By creating an inventory using ERDAS Imagine and ArcGIS to extract landslide scars from satellite imagery, she’s working to identify topographic and bioclimatic factors relating to individual landslide occurrence as well as examine the dynamics of landslide recovery and immunity. 
 
 ### Francisco Diaz-Collado, Undergrad Student
-<img src='/images/franciscodiazcollado.jpeg' width="300" align="right" style="border:3px solid black">
+<img src='/images/franciscodiazcollado.jpeg' width="300" align="right" style="none:border:3px solid black">
 Contact: `francisco.diaz17@upr.edu`{:.ruby}
 
 Francisco is currently in his 4th year in Biology at the University of Puerto Rico. He has been working for the last three years at the TLSE-lab. He started as a volunteer, became fascinated and continued here with us. In the lab, his research is focused on characterizing tree growth patterns through dendrochronology using tree cores to ultimately  infer climate conditions that led to those growing patterns.
@@ -36,26 +36,28 @@ Francisco is currently in his 4th year in Biology at the University of Puerto Ri
 ### Rachel Cruz-Pérez, Undegrad Student
 <img src='/images/sequoia-rachel.jpeg' width="200" align="right" style="border:3px solid black">
 Contact: `rachel.cruz@upr.edu`{:.ruby}
+
 Rachel is currently in her last year on a dual BSc. in Environmental Sciences and Biology at the University of Puerto Rico. She has been working at TLSE-lab for the last one and a half year. Her research is focused on how biotic and abiotic factors influence plant functional traits, namely root tensile strength. Towards this end, she is compiling the first global root tensile strength database, which will help strengthen our knowledge of belowground interactions and its effects on ecosystem processes.
 
 
 ### Alanis Rosa Santiago, Undergrad Student
 <img src='/images/alanis.jpg' width="300" align="right" style="border:3px solid black">
 Contact: `alanis.rosa1@upr.edu`{:.ruby}
+
 Alanis is currently at her 4th year in Biology at the University of Puerto Rico. She has been working for the last one and a half year at TLSE-lab. Her research is focused on characterizing the functional diversity of plant communities developing on landslides. For her graduate studies she would like to continue studying the influence of the environment and disturbances on plant communities.
 
 
-## Past lab members
+# Past lab members
 
-### Postdocs
-#### Lindsey Sutton
+## Postdocs
+### Lindsey Sutton
 <img src='/images/lindseysutton.png' width="200" align="right" style="border:3px solid black">
 Contact: `lsutton05@gmail.com`{:.ruby}
 
 <p> Ph.D., Arizona State University </p>
 Postdoc: Natural hazards, landslides, and livelihoods in the Sierra de Las Minas of eastern Guatemala
 
-#### Carlos Ramos-Sharron
+### Carlos Ramos-Sharron
 <img src='/images/carlosramoscharron.png' width="200" align="right" style="border:3px solid black">
 Contact: `cramos_scharron@yahoo.com`{:.ruby}
 
@@ -64,9 +66,9 @@ Postdoc: The transfer of modern organic carbon by landslide activity in a tropic
 
 Current position: Assistant Professor, Department of Geography, Univesity of Texas at Austin.
 
-### Graduate Students
+## Graduate Students
 
-#### Diana Delgado-Rivera
+### Diana Delgado-Rivera
 <img src='/images/dianadelgado.png' width="200" align="right" style="border:3px solid black">
 Contact: `diana.delgadorivera@upr.edu`{:.ruby}
 
@@ -75,7 +77,7 @@ Thesis: Disentangling vine-invaded landscapes: From individual vine patches to v
 
 Current position: Lecturer, Department of Biology, University of Puerto Rico at Bayamón.
  
-#### Zuania Colon-Piñeiro
+### Zuania Colon-Piñeiro
 <img src='/images/zuaniacolon.png' width="200" align="right" style="border:3px solid black">
 Contact: `zcolonp@gmail.com`{:.ruby}
 
@@ -84,7 +86,7 @@ Thesis: The effect of temperature on the development of Eleutherodactylus coqui:
 
 Current position: PhD Student at University of Florida, Gainesville
 
-#### Johanna Delgado-Acevedo
+### Johanna Delgado-Acevedo
 <img src='/images/johannadelgado.png' width="200" align="right" style="border:3px solid black">
 Contact: `johannadelgado@yahoo.com`{:.ruby}
 
@@ -93,7 +95,7 @@ Thesis: Effects of land-use change on the morphology of Puerto Rican Frogs.
 
 Current position: Associate Professor, Texas at A&M Commerce.
 
-#### Andres Cuervo
+### Andres Cuervo
 <img src='/images/andrescuervo.png' width="200" align="right" style="border:3px solid black">
 Contact: `amcuervo@gmail.com`{:.ruby}
 
@@ -102,26 +104,26 @@ Thesis: Phenotypic effects of forest fragmention on tropical montane birds: Vari
 
 Current position: Assistant Professor and Curator of Birds, Universidad Nacional de Colombia.
 
-### Undergraduate Students
+## Undergraduate Students
 
-#### Nydia Santiago
+### Nydia Santiago
 
-#### Edwin Navarro
-#### Ariel Barbosa
-#### Emily Diaz
-#### Diana Pabon 
-#### Carlos Cifuentes
-#### Katia Ruiz
-#### Antonio Gutierrez 
-#### Josimar Figueroa
-#### Johanna Colon
-#### Erick Estela
-#### Francheska Lopez
-#### Jenitza Melendez
-
-
+### Edwin Navarro
+### Ariel Barbosa
+### Emily Diaz
+### Diana Pabon 
+### Carlos Cifuentes
+### Katia Ruiz
+### Antonio Gutierrez 
+### Josimar Figueroa
+### Johanna Colon
+### Erick Estela
+### Francheska Lopez
+### Jenitza Melendez
 
 
-### Other Collaborators
 
-#### Giomara LaQuay
+
+## Other Collaborators
+
+### Giomara LaQuay
