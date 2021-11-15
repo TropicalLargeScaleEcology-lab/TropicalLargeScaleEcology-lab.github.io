@@ -26,7 +26,7 @@ Laura completed her BSc. in Biology at Universidad EAFIT at Medellín, Colombia.
 Ana recently completed her BSc. in Organismal Biology and Ecology at Colorado College. Now, she is studying whether ecosystems possess an ecological memory that allows them to "remember" where landslides occured. The aims of her research are to analyze landslide spatial patterns in the Sierras de las Minas of Guatemala over a timeframe of more than 50 years. By creating an inventory using ERDAS Imagine and ArcGIS to extract landslide scars from satellite imagery, she’s working to identify topographic and bioclimatic factors relating to individual landslide occurrence as well as examine the dynamics of landslide recovery and immunity. 
 
 ### Francisco Diaz-Collado, Undergrad Student
-<img src='/images/franciscodiazcollado.png' width="300" align="right" style="border:3px solid black">
+<img src='/images/franciscodiazcollado.jpeg' width="300" align="right" style="border:3px solid black">
 <p> Contact: francisco.diaz17@upr.edu </p>
 Francisco is currently in his 4th year in Biology at the University of Puerto Rico. He has been working for the last three years at the TLSE-lab. He started as a volunteer, became fascinated and continued here with us. In the lab, his research is focused on characterizing tree growth patterns through dendrochronology using tree cores to ultimately  infer climate conditions that led to those growing patterns.
 
