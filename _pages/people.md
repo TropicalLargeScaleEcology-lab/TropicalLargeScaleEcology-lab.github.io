@@ -11,7 +11,7 @@ author_profile: true
 ## Current lab members
 ### Yakshi Ortiz-Maldonado, Research Assistant
 <img src='/images/yakshi.jpeg' width="300" align="right" style="border:3px solid black">
-`yakshi.ortiz@upr.edu`
+`yakshi.ortiz@upr.edu`{:.ruby}
 
 [Yakshi](https://yakshiupr.github.io "Yakshi's personal page") did her BSc. and her MSc. in Biology at the University of Puerto Rico - Rio Piedras. Her thesis focused understanding the role of microorganisms associated to roots, rhizobiomes, in the weathering of silicate rocks at the tropics. The weathering of these rocks, especially when they have high concentrations of Calcium and Magnesium is known to affect the short- and the long Carbon cycles. Now, she is working at TLSE-lab analyzing rock samples that were incubated for 4 years in order to continue characterizing microbial communities involved in rock weathering. 
 
