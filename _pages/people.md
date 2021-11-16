@@ -126,12 +126,15 @@ Current position: Assistant Professor and Curator of Birds, Universidad Nacional
 
 ## Undergraduate Students
 
+### Alondra Norat
+### Natali Colón 
 ### Emily Diaz
 ### Ariel Barbosa
 ### Nydia Santiago
 ### Edwin Navarro
 ### Patricia Torres
 ### Ivana Resto
+### Kristy Adams
 ### Diana Pabon 
 ### Carlos Cifuentes
 ### Katia Ruiz
