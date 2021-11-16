@@ -46,11 +46,10 @@ Francisco is currently in his 4th year in Biology at the University of Puerto Ri
 
 ### Rachel Cruz-Pérez, Undegrad Student
 
-<img src='/images/sequoia-rachel.jpeg' width="200" align="left" style="float:right;border:3px solid black">
+<img src='/images/rachelcruz.png' width="200" align="left" style="float:right;border:3px solid black">
 Contact: `rachel.cruz@upr.edu`{:.ruby}
 
-Rachel is currently in her last year on a dual BSc. in Environmental Sciences and Biology at the University of Puerto Rico. She has been working at TLSE-lab for the last one and a half year. Her research is focused on how biotic and abiotic factors influence plant functional traits, namely root tensile strength. Towards this end, she is compiling the first global root tensile strength database, which will help strengthen our knowledge of belowground interactions and its effects on ecosystem processes.
-
+Rachel is currently in her last year on a dual BSc. in Environmental Sciences and Biology at the University of Puerto Rico. She has been working at TLSE-lab for the last one and a half year. Her research is focused on how biotic and abiotic factors influence plant functional traits, namely root tensile strength. Towards this end, she is compiling the first global root tensile strength database, which will help strengthen our knowledge of belowground interactions and its effects on ecosystem processes. Upon completion of her bachelor’s degree, she wants to enter graduate school to complete a PhD focusing on the intersection between terrestrial ecology and soil biogeochemistry.
 
 ### Alanis Rosa Santiago, Undergrad Student
 
