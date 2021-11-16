@@ -70,7 +70,8 @@ Alanis is currently at her 4th year in Biology at the University of Puerto Rico.
 Contact: `lsutton05@gmail.com`{:.ruby}
 
 <p> Ph.D., Arizona State University </p>
-Postdoc: Natural hazards, landslides, and livelihoods in the Sierra de Las Minas of eastern Guatemala
+Postdoc: Natural hazards, landslides, and livelihoods in the Sierra de Las Minas of eastern Guatemala.
+<br/><br/>
 
 ### Carlos Ramos-Sharron
 
