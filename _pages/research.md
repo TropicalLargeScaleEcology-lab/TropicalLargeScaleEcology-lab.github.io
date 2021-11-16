@@ -11,7 +11,6 @@ author_profile: true
 # Research Projects
 
 ## Linking ecosystem and geomorphic processes to understand the large-scale organization of tropical mountains mediated by landsliding
-<img src='/images/yakshi-rhizobiome.jpg' width="300" align="right" style="border:3px solid black">
 
 Landsliding is likely to play a pivotal role in mountainscapes, our knowledge about ecosystem responses to the formation of landslides and in turn, about the influence of ecosystem on this process is very limited. Building upon our previous work in the Sierra de Las Minas of Guatemala where we examined the role of landsliding on the carbon cycle this new project is aimed at understanding the role of soil fertility on the formation of landslides.
 
@@ -19,6 +18,7 @@ Landsliding is likely to play a pivotal role in mountainscapes, our knowledge ab
 
 
 ## Landsliding and the rhizobiota link the short- and long-term carbon cycles: A metagenomic approach
+
 <img src='/images/yakshi-rhizobiome.jpg' width="300" align="right" style="border:3px solid black">
 
 The main goal of this proof-of-concept study is to characterize the rhizobiomes of plants developing in contrasting weathering enviroments, namely landslides and forest underlain by (Ca, Mg)-bearing silicate rocks.
@@ -30,7 +30,11 @@ The main goal of this proof-of-concept study is to characterize the rhizobiomes 
 
 Climbing plants are increasing in abundance and through their effect on community structure and ecosystem-level processes may be becoming important drivers of change. Nearly all studies on climbing plants have focused on woody climbings plants or lianas completly overlooking their non-woody counterparts - herbaceous and shrubby climbing plants or vines - which are reaching epidemic proportions in numerous regenerating post-agricultural landscapes worldwide.
 
-We are investigating the large-scale dynamics of vines across a complex environmental gradient in the island of Puerto Rico. Using remotely sensed data and ground thruthing we are mapping vine patches and characterizing species composition and abudance. The combination of two sets of high-resolution imagery collected 9 years apart will allow us to build vine patch networks and begin to understand its large-scale dynamics.
+We are investigating the large-scale dynamics of vines across a complex environmental gradient in the island of Puerto Rico. Using remotely sensed data and ground thruthing we mapped vine patches and characterized species composition and abudance. The combination of two sets of high-resolution imagery collected 9 years apart allowed us to build vine patch networks and begin to understand its large-scale dynamics. From this work, two articles have been published already: 
+
+* [Multi-driver and multi-scale assessment of vine community structure and composition across a complex tropical environmental matrix](https://doi.org/10.1371/journal.pone.0215274); data available [here](https://doi.org/10.5061/dryad.mc443qs)
+
+* [Using multiple traits to assess the potential of introduced and native vines to proliferate in a tropical region](https://doi.org/10.1002/ece3.2588); data available [here](https://doi.org/10.5061/dryad.1tj60 )
 
 
 ## Landscapes, Water, and the Sustainable Management of Tropical Watersheds
@@ -41,10 +45,11 @@ We are using the Rio Grande de Arecibo watershed of Puert Rico watershed as a mo
 
 *This was an interdisciplinary collaboration with faculty at UPR-RP and was initially funded through an institutional award.*
 
-<img src='/images/.jpeg' width="300" align="right" style="border:3px solid black">
 
 
 ## Phenotypic consequences of habitat loss on tropical organisms
+
+<img src='/images/habitat-fragm-phenotype/zuania-coqui.png' width="400" align="right" style="border:3px solid black">
 
 We are interested in the mechanisms underlying phenotypic change in fragmented habitats, including the extent to which organisms are reslient to change. We focus on body size, a universal currency not only reflecting a fascinating dimension of diversity but also one related to a variety of physiological, morphological, behavioral, life-history, and ecological attributes of organisms.
 
