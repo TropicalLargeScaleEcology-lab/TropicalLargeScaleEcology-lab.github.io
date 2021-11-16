@@ -12,7 +12,7 @@ author_profile: true
 
 ### Yakshi Ortiz-Maldonado, Research Assistant
 
-<img src='/images/yakshi.jpeg' width="300" align="left" style="border:3px solid black">
+<img src='/images/yakshi.jpeg' width="300" align="right" style="border:3px solid black">
 Contact: `yakshi.ortiz@upr.edu`{:.ruby}
 
 [Yakshi](https://yakshiupr.github.io "Yakshi's personal page") did her BSc. and her MSc. in Biology at the University of Puerto Rico - Rio Piedras. Her thesis focused understanding the role of microorganisms associated to roots, rhizobiomes, in the weathering of silicate rocks at the tropics. The weathering of these rocks, especially when they have high concentrations of Calcium and Magnesium is known to affect the short- and the long Carbon cycles. Now, she is working at TLSE-lab analyzing rock samples that were incubated for 4 years in order to continue characterizing microbial communities involved in rock weathering. 
@@ -26,7 +26,7 @@ Laura completed her BSc. in Biology at Universidad EAFIT at Medellín, Colombia.
 
 ### Ana Kilgore, Post-Bac
 
-<img src='/images/ana-kilgore.jpg' width="200" align="left" style="border:3px solid black">
+<img src='/images/ana-kilgore.jpg' width="200" align="right" style="border:3px solid black">
 Contact: `ana.kilgore@upr.edu`{:.ruby}
 
 Ana recently completed her BSc. in Organismal Biology and Ecology at Colorado College. Now, she is studying whether ecosystems possess an ecological memory that allows them to "remember" where landslides occured. The aims of her research are to analyze landslide spatial patterns in the Sierras de las Minas of Guatemala over a timeframe of more than 50 years. By creating an inventory using ERDAS Imagine and ArcGIS to extract landslide scars from satellite imagery, she’s working to identify topographic and bioclimatic factors relating to individual landslide occurrence as well as examine the dynamics of landslide recovery and immunity. 
@@ -46,7 +46,7 @@ Francisco is currently in his 4th year in Biology at the University of Puerto Ri
 
 ### Rachel Cruz-Pérez, Undegrad Student
 
-<img src='/images/rachelcruz.png' width="300" align="left" style="float:right;border:3px solid black">
+<img src='/images/rachelcruz.png' width="300" align="right" style="border:3px solid black">
 Contact: `rachel.cruz@upr.edu`{:.ruby}
 
 Rachel is currently in her last year on a dual BSc. in Environmental Sciences and Biology at the University of Puerto Rico. She has been working at TLSE-lab for the last one and a half year. Her research is focused on how biotic and abiotic factors influence plant functional traits, namely root tensile strength. Towards this end, she is compiling the first global root tensile strength database, which will help strengthen our knowledge of belowground interactions and its effects on ecosystem processes. Upon completion of her bachelor’s degree, she wants to enter graduate school to complete a PhD focusing on the intersection between terrestrial ecology and soil biogeochemistry.
@@ -58,6 +58,7 @@ Contact: `alanis.rosa1@upr.edu`{:.ruby}
 
 Alanis is currently at her 4th year in Biology at the University of Puerto Rico. She has been working for the last one and a half year at TLSE-lab. Her research is focused on characterizing the functional diversity of plant communities developing on landslides. For her graduate studies she would like to continue studying the influence of the environment and disturbances on plant communities.
 
+<br/><br/>
 
 # Past lab members
 
