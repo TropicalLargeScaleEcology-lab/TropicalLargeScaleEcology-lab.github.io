@@ -42,7 +42,7 @@ Contact: `francisco.diaz17@upr.edu`{:.ruby}
 Francisco is currently in his 4th year in Biology at the University of Puerto Rico. He has been working for the last three years at the TLSE-lab. He started as a volunteer, became fascinated and continued here with us. In the lab, his research is focused on characterizing tree growth patterns through dendrochronology using tree cores to ultimately  infer climate conditions that led to those growing patterns. In the future, he is thinking in pursuing graduate studies in Public Health.  
 
 <br/><br/>
-<br/><br/>
+
 
 ### Rachel Cruz-Pérez, Undegrad Student
 
